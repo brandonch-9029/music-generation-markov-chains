@@ -1,4 +1,4 @@
-cxwn84's Intro to Music Processing Coursework Submission
+Markov Chain Music Generation
 
 1. File Description
 - cxwn84_report.pdf: 1000 word report
@@ -13,7 +13,6 @@ cxwn84's Intro to Music Processing Coursework Submission
     - basic.midi, inter.midi, adv.midi: Typical examples of music output for my system
 
 2. Code Requirements
-- All the modules used in main.ipynb are standard or have been used in our practicals, so I do not believe markers will have any issue getting the Notebook to run
 - Python Standard Library Modules: random, os, pickle, collections, typing, and fractions.
 - Additional Modules:
     - numpy
