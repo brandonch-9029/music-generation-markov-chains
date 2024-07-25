@@ -1,4 +1,4 @@
-Markov Chain Music Generation
+# Markov Chain Music Generation
 
 1. File Description
 - cxwn84_report.pdf: 1000 word report
